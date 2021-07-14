@@ -54,7 +54,6 @@ describe('Home', () => {
       width: 16,
       borderRadius: 8,
       borderWidth: 1,
-      borderColor: '#3D3D4D',
       marginRight: 10
     });
     expect(taskElement).toHaveStyle({
